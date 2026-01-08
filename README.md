@@ -119,7 +119,7 @@ src/
 ## Animation Expectations
 - Use Framer Motion for:
 
-Hero Section
+### Hero Section
 - Chat bubbles floating up & down
 
 - Different delays per bubble
@@ -127,7 +127,7 @@ Hero Section
 - Continuous loop animation
 ---
 
-Other Sections
+### Other Sections
 - Fade-in on scroll
 
 - Slide-up motion
