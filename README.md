@@ -2,16 +2,12 @@
 ## React + Tailwind SaaS Landing Page Recreation
 
 ---
-
-##  Objective
-
 Recreate a **modern SaaS landing page** using **React** and **Tailwind CSS** by observing a **given visual reference image**.
 
 ---
 
 ## Design Reference
-
-- A **single landing page screenshot** will be provided
+Design Link: https://saaslanding-phi.vercel.app/
 
 You must rely on:
 - Visual judgment
@@ -123,7 +119,7 @@ src/
 ## Animation Expectations
 - Use Framer Motion for:
 
-# Hero Section
+Hero Section
 - Chat bubbles floating up & down
 
 - Different delays per bubble
@@ -131,7 +127,7 @@ src/
 - Continuous loop animation
 ---
 
-# Other Sections
+Other Sections
 - Fade-in on scroll
 
 - Slide-up motion
