@@ -49,9 +49,10 @@ cd landing-page
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm install motion lucide-react
+```
 Configure Tailwind strictly following Tailwind v4 + Vite official docs.
-
 ---
+
 
 ## Required Component Structure (STRICT)
 
@@ -70,8 +71,9 @@ src/
  ├─ App.jsx
  ├─ main.jsx
  └─ index.css
-
+```
 ---
+
 ## Required Page Sections
 - Your landing page MUST include ALL sections below:
 
@@ -88,6 +90,7 @@ src/
 - Integrations Section
 
 - CTA + Footer Section
+---
 
 ## Hero Section Requirements
 - The Hero Section must include:
@@ -103,6 +106,7 @@ src/
 - Floating chat/message bubbles around the person
 
 - Subtle looping animation on bubbles
+---
 
 ## Hero Visual Rules
 - Person image has NO background
@@ -114,6 +118,7 @@ src/
 - Bubbles must overlap the hero area
 
 - Use position: absolute with Tailwind utilities
+---
 
 ## Animation Expectations
 - Use Framer Motion for:
@@ -124,6 +129,7 @@ src/
 - Different delays per bubble
 
 - Continuous loop animation
+---
 
 # Other Sections
 - Fade-in on scroll
@@ -133,6 +139,7 @@ src/
 - One animation per section (keep it clean)
 
 - Do NOT over-animate
+---
 
 
 ## Styling Rules
@@ -141,7 +148,7 @@ src/
 - Dark green hero background must be consistent
 
 - Cards should use:
-
-- rounded-xl / rounded-2xl
-- shadow-sm
-- bg-white
+rounded-xl / rounded-2xl
+shadow-sm
+bg-white
+---
